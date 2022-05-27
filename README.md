@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Portrait](https://i.imgur.com/uUEIoyk.jpeg)
+
 <!--
 **ChenMatsu/ChenMatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C.
 - 📫 Checking out my LinkedIn to reach me.
   - [MatsuChen](https://www.linkedin.com/in/matsu-chen-98a7aa1b1/)  
+ 
