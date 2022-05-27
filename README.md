@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 Checking out my LinkedIn to reach me.
  
  
-### [LinkedIn](https://www.linkedin.com/in/matsu-chen-98a7aa1b1/)  
+<!-- ### [LinkedIn](https://www.linkedin.com/in/matsu-chen-98a7aa1b1/)   -->
  
 
 ---
