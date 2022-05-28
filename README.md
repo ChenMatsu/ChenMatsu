@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ZDTech using React, Redux, Node, Docker, etc.
 - 🌱 I’m currently learning C.
 - 📫 Checking out my LinkedIn to reach me.
+- 📚 I love writing diary everyday.
  
  
 ### [LinkedIn](https://www.linkedin.com/in/matsu-chen-98a7aa1b1/)  
  
+
 
 ---
 
