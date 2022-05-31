@@ -19,10 +19,28 @@ Here are some ideas to get you started:
  
  
 ### [LinkedIn](https://www.linkedin.com/in/matsu-chen-98a7aa1b1/)  
- 
-
-
 ---
+### Familiarity
+**Computer Language**
+- ![JS](https://progress-bar.dev/80?title=JS&width=120&color=babaca) 
+- ![TS](https://progress-bar.dev/80?title=TS&width=120&color=babaca)  
+- ![C](https://progress-bar.dev/60?title=C&width=120&color=babaca) 
+- ![Python](https://progress-bar.dev/60?title=Python&width=120&color=babaca) 
+
+**Technologies**
+- ![React](https://progress-bar.dev/75?title=React&width=120)  
+- ![Redux](https://progress-bar.dev/70?title=React&width=120)  
+- ![Node](https://progress-bar.dev/70?title=Node&width=120)  
+- ![Docker](https://progress-bar.dev/70?title=Docker&width=120)  
+- ![Konva](https://progress-bar.dev/60?title=Docker&width=120)  
+
+**UI Framework**
+- ![Antd Design](https://progress-bar.dev/90?title=Antd&width=120)  
+
+**Web Design**
+- ![Figma](https://progress-bar.dev/30?title=Figma&width=120)  
+
+
 
 
 <!-- ![Portrait](https://i.imgur.com/uUEIoyk.jpeg) -->
