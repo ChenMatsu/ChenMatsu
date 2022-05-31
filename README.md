@@ -28,11 +28,16 @@ Here are some ideas to get you started:
 - ![Python](https://progress-bar.dev/60?title=Python&width=120&color=babaca) 
 
 **Technologies**
+- ![Git](https://progress-bar.dev/80?title=Git&width=120)  
 - ![React](https://progress-bar.dev/75?title=React&width=120)  
-- ![Redux](https://progress-bar.dev/70?title=React&width=120)  
+- ![Redux](https://progress-bar.dev/70?title=Redux&width=120)  
 - ![Node](https://progress-bar.dev/70?title=Node&width=120)  
 - ![Docker](https://progress-bar.dev/70?title=Docker&width=120)  
-- ![Konva](https://progress-bar.dev/60?title=Docker&width=120)  
+- ![Konva](https://progress-bar.dev/60?title=Konva&width=120)  
+
+**Databases**
+- ![MySQL](https://progress-bar.dev/60?title=MySQL&width=120)  
+- ![MongoDB](https://progress-bar.dev/65?title=MongoDB&width=120)  
 
 **UI Framework**
 - ![Antd Design](https://progress-bar.dev/90?title=Antd&width=120)  
