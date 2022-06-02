@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 **UI Framework**
 - ![Antd Design](https://progress-bar.dev/90?title=Antd&width=120)  
+- ![ECharts](https://progress-bar.dev/60?title=ECharts&width=120)  
 
 **Web Design**
 - ![Figma](https://progress-bar.dev/30?title=Figma&width=120)  
