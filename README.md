@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 **Databases**
 - ![MySQL](https://progress-bar.dev/60?title=MySQL&width=120)  
-- ![PostgreSQL](https://progress-bar.dev/40?title=MySQL&width=120)  
+- ![PostgreSQL](https://progress-bar.dev/40?title=PostgreSQL&width=120)  
 - ![MongoDB](https://progress-bar.dev/65?title=MongoDB&width=120)  
 
 **UI Framework**
