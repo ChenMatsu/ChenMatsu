@@ -29,6 +29,7 @@ Here are some ideas to get you started:
  <img src="https://progress-bar.dev/80?title=NodeJS&width=120" />
  <img src="https://progress-bar.dev/60?title=Python&width=120&color=babaca" />
  <img src="https://progress-bar.dev/60?title=C&width=120&color=babaca" />
+  <img src="https://progress-bar.dev/3o0?title=Go&width=120&color=babaca" />
 </div> 
 
 <div>
@@ -62,6 +63,12 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width=50 height=25 />
   <img src="https://koa.bootcss.com/public/images/koa-logo.png" width=25 height=25 />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" width=50 height=25 />
+</div>
+
+**Testing Library** 
+<div>
+  <img src="https://progress-bar.dev/30?title=Jest&width=120" />
+  <img src="https://progress-bar.dev/30?title=MockServerWorker&width=120" />
 </div>
 
 **Deployment Technologies**
