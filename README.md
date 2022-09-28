@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on ZDTech using React, Redux, Node, Docker, etc.
-- 🌱 I’m currently learning C, C++, Next.JS, UnrealEngine and Flask.
+- 🌱 I’m currently learning C, Calculus, Linear Algebra, Statistics and Operating System
 - 📫 Checking out my LinkedIn to reach me.
 - 📚 I love writing diary everyday.
  
