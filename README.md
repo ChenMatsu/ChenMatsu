@@ -12,7 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-### [LinkedIn](https://www.linkedin.com/in/matsu-chen-98a7aa1b1/)  
 
 <!-- ![Portrait](https://i.imgur.com/uUEIoyk.jpeg) -->
