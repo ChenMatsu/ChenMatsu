@@ -1,4 +1,4 @@
-### Hi there 👋
+### This guy is too lazy to leave things... 🤔
 
 <!--
 **ChenMatsu/ChenMatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
